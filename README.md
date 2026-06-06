@@ -1,4 +1,4 @@
-# Student Marks Prediction Using Machine Learning
+# Student Marks Prediction Using Machine Learning 
 
 ## Overview
 This project predicts student marks based on study hours using Linear Regression.
